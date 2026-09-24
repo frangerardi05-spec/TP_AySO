@@ -1,0 +1,75 @@
+git status
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+cd mkdir repogit
+mkdir repogit
+cd
+mkdir "repogit"
+cd repogit
+git clone <https://github.com/frangerardi05-spec/TP_AySO.git~>
+git clone <git@github.com:frangerardi05-spec/TP_AySO.git>
+git clone git@github.com:frangerardi05-spec/TP_AySO.git
+cd
+sudo apt install git
+cd/repogit
+cd repogit
+git clone git@github.com:frangerardi05-spec/TP_AySO.git
+cd TP_AySO/
+pwd
+is -l
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL/etc/os/release
+cd repogit/
+cd TP_AySO/
+whoami
+echo "Usuario=(whoami)" > datos_usuario.txt
+git add.
+git add
+git add .
+git config --global user.email "frangerardi05@gmail.com"
+git commit --global user.name "franger"
+git config --global user.name "frangerardi05-spec" 
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "modelname" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+git commit -m “feat: Añadiendo información de CPU”
+git add datos_usuarios.txt
+git add "datos_usuarios.txt"
+git status
+git commit -m "feat: Añadiendo informacion de CPU"
+git add "feat: Añadiendo informacion de CPU"
+git status
+git add .
+git commit -m feat: Añadiendo informacion de CPU"
+alumno
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+git add .
+git commit -m feat: Añadiendo informacion de CPU
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+cat <<EOF >> README.md
+Alumno: Francisco
+División: 311 Turno: Noche
+EOF
+
+git add README.md datos_usuarios.txt
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git commit -m "ADD: Añadiendo informacion de CPU"
+git push
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
